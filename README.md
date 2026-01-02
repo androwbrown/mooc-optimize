@@ -1,8 +1,6 @@
 # 解除中国大学 MOOC网站各种限制
 
 [![许可证](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
-[![最新发行版](img.shields.io)](https://github.com/androwbrown/mooc-optimize/releases)
-[![问题](img.shields.io)](https://github.com/androwbrown/mooc-optimize/issues)
 
 优化中国大学MOOC网站体验，解除复制粘贴限制、允许右键、禁止弹窗警告、去除水印、禁止切屏检测、禁止检测页面非活动状态。
 
